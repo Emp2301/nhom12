@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>toi ten la gi</pattern>
+    <template>nguyen dinh tung .</template>
+  </category>
+</aiml>
